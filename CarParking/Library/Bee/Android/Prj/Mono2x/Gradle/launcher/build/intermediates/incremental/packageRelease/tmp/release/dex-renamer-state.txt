@@ -1,0 +1,4 @@
+#Fri Jun 24 16:20:46 EET 2022
+base.0=D\:\\project\\CarParking\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
